@@ -25,7 +25,7 @@ Príklad vstupných dát - Wikipedia:
 
 Výstup programu:
 
-Program bude porovnávať text ktorý sa nachádza medzi <abstract></abstract> pri wikipedii. U DBPedie sa abstrakt nachádza medzi "".
+Program bude porovnávať text ktorý sa nachádza medzi <//abstract><//abstract> pri wikipedii. U DBPedie sa abstrakt nachádza medzi "".
 
 Pri zistení prvej nezhody, program zahlási, že abstrakt nie je rovnaký a podobne bude pokračovať ďalej.
 
