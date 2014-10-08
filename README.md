@@ -21,7 +21,7 @@ Príklad vstupných dát - DBPedia:
 
 Príklad vstupných dát - Wikipedia:
 
-<abstract>English articles}}</abstract>
+"<abstract>"English articles}}"</abstract>"
 
 Výstup programu:
 
