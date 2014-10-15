@@ -3,7 +3,7 @@ VI_FIIT_projekt
 
 Projekt na vyhladavanie info.. repozitár, ktorý obsahuje informácie o projekte
 
-Vstupné dáta
+Vstupné a výstupné dáta
 ================
 
 Ukážka vstupných dát je v adresári /data.
@@ -11,6 +11,10 @@ Ukážka vstupných dát je v adresári /data.
 sample_dbpedia_long_abstracts_en.xml - ukážka vstupných dát z dbpedie
 
 sample_enwiki-latest-abstract.xml - ukážka vstupných dát z wikipedie
+
+Ukážka výstupných dát je v adresári /data.
+
+sample_abstract-output.xml
 
 Ukážka fungovania
 ===================
